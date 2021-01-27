@@ -44,6 +44,7 @@ The training data for the project consist of the following columns:
 	+ Ridge Regression
 	+ Decision Tree
 	+ Random Forest Regressor
+	+ GradientBoostingRegressor
 
 
 ## Organization
@@ -57,7 +58,13 @@ In repository of project you find:
 During the modelling, we see that the performance were way better on Random forest model, compare to other models with the metrics(Rscore) = 0.732148.
 
 ## Conclusion
-Model comparaison
+- Model comparaison
+ 	+ Linear Regression(LR)
+	+ Decision Tree(DT)
+	+ Random Forest Regressor(RFS)
+	+ Ridge Regression(RGCV)
+	+ GradientBoostingRegressor(GRB)
 
-<img src="img/algorithm_performance.PNG" style="float:left;" width="400" height="300"/>
+
+<img src="img/algorithm_performance.PNG" style="float:left;" width="500" height="400"/>
 

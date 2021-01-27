@@ -49,7 +49,7 @@ The training data for the project consist of the following columns:
 ## Organization
 In repository of project you find:
 
-<img src="img/folder.png" style="float:left;" width="200" height="300"/>
+<img src="img/folder.png" style="float:left;" width="250" height="200"/>
 
 
 ## Model Training and Evaluation

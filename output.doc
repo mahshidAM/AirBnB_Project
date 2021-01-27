@@ -1,0 +1,58 @@
+Structure du dossier pour le volume Local Disk
+Le num‚ro de s‚rie du volume est 1CFD-CD9B
+C:.
+|   AirBnB_Price_Prediction.ipynb
+|   airbnb_project.pdf
+|   output.doc
+|   output.txt
+|   README.md
+|   
++---data
+|       test.csv
+|       train.csv
+|       us-zip-code-latitude-and-longitude.csv
+|       
+\---img
+    |   algorithm_performance.PNG
+    |   bedrooms.png
+    |   city.png
+    |   correlations.png
+    |   dtree_path.PNG
+    |   dtree_render.png
+    |   errors_dtree.png
+    |   errors_GBoost.png
+    |   errors_linear.png
+    |   errors_rfg.png
+    |   errors_ridge.png
+    |   features_cols.png
+    |   features_score.png
+    |   features_score_.png
+    |   feautures_scores.PNG
+    |   missing_cols.png
+    |   newplot.png
+    |   price_describe.png
+    |   price_distribution.png
+    |   price_neighbours.png
+    |   residual_lgboost.png
+    |   residual_linear.png
+    |   residual_rfg_model.png
+    |   reviews.png
+    |   scores.png
+    |   
+    \---ppt
+            30bfc28dea656ad415ae6790affc13d8-removebg-preview.png
+            30bfc28dea656ad415ae6790affc13d8.jpg
+            Airbnb-NYC-law.jpg
+            airbnb_guide.jpg
+            cost_expense_expenditure_charge_earning_increase-512.webp
+            cover-r4x3w1000-599c42b32def8-bnb-lord-visuel.jpg
+            dollar-arrow-indicates-a-price-increase-icon-vector-24414399.jpg
+            images (1).jpg
+            images.jpg
+            kisspng-computer-icons-estimation-cost-estimate-5af9ec496366f0.4700260715263283934072.jpg
+            kisspng-cost-reduction-computer-icons-united-states-dollar-dolares-5b369bd83f28d4.6492230715303054962587-removebg-preview.png
+            kisspng-cost-reduction-computer-icons-united-states-dollar-dolares-5b369bd83f28d4.6492230715303054962587.jpg
+            my-airbnb-wish-list-usa.jpg
+            New-York-City-Brooklyn-Bridge-Panorama-Juergen-Roth-2.jpg
+            YLJZW22YKJGM7EHEHPWT3AUXSU.jpg
+            

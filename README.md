@@ -17,7 +17,7 @@ Instructions:
 * Run the model on the test dataset (test.csv) to generate predictions in the format found in the sample submission (sample_submission.csv)
 
 
-Data source:
+Data source from kaggle:
 - [AirBnB listings in major US cities](	https://www.kaggle.com/rudymizrahi/airbnb-listings-in-major-us-cities-deloitte-ml)
 
 Datasets :

@@ -8,7 +8,8 @@
 
 ## Overview
 
-The aim of this project was to predict the price of AirBnB listings in major U.S. cities. 
+The aim of this project was to predict the price of AirBnB listings in major U.S. cities.
+
 Instructions:
 
 * Build a model with the training data (train.csv) that predicts the variable "log_price"
@@ -16,7 +17,7 @@ Instructions:
 * Run the model on the test dataset (test.csv) to generate predictions in the format found in the sample submission (sample_submission.csv)
 
 
-Data source:
+Data source from kaggle:
 - [AirBnB listings in major US cities](	https://www.kaggle.com/rudymizrahi/airbnb-listings-in-major-us-cities-deloitte-ml)
 
 Datasets :
